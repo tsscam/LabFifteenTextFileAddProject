@@ -1,0 +1,6 @@
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabFifteen\LabFifteen\bin\Debug\LabFifteen.exe.config
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabFifteen\LabFifteen\bin\Debug\LabFifteen.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabFifteen\LabFifteen\bin\Debug\LabFifteen.pdb
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabFifteen\LabFifteen\obj\Debug\LabFifteen.csprojResolveAssemblyReference.cache
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabFifteen\LabFifteen\obj\Debug\LabFifteen.exe
+C:\Users\tssca\Documents\Visual Studio 2015\Projects\LabFifteen\LabFifteen\obj\Debug\LabFifteen.pdb
